@@ -1,0 +1,5 @@
+git commands for dummies to understand
+===
+
+I was following the "https://backlog.com/git_totorial/..." though, I still don't
+know what I am doing.
