@@ -8,3 +8,7 @@ y = np.exp(x)*np.sin(x)
 plt.plot(x, y)
 plt.show()
 
+noise = np.random.randn(y.shape)
+yn = y+noise
+
+
